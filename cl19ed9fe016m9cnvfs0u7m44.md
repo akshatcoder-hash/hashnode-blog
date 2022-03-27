@@ -36,6 +36,7 @@ So if your system has any of the above, be prepared to use Ethernet to access th
 ## Internal speakers don't work while headphones are attached
 
 Internal speakers automatically mute while 1/8 inch headphones are plugged into devices, even if you use audio settings to select internal speakers for output.
+Also, you don't see any change in sound unless you mute the volume.
 
 ## NVIDIA GPUs are currently unstable:
 
