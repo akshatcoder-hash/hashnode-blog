@@ -6,7 +6,7 @@ You must have heard of the famous quote -
 
 ![Rapid Arch Linux Setup | KeepFloyding](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkeepfloyding.github.io%2Fimages%2Farchbtw.png&f=1&nofb=1&ipt=497271201525f674f3e5bd775f1b729c4cb0ee44f9b5f9e0714175e913ef1601&ipo=images align="left")
 
-Arch Linux is indeed known for its simplicity and flexibility, but it's not typically considered a beginner-friendly operating system. However, ShastraOS has been designed specifically to be more accessible to new Linux users. By providing a pre-configured system with all the necessary web3 software and tools, as well as a user-friendly interface, we've made it easier for beginners to start exploring and use web3 technologies. Additionally, we provide documentation and support resources to help guide new users through the process of installing and configuring ShastraOS. We also provide you with an assistant built on GPT-3 which gives you all the basic functionalities at one click.
+Arch Linux is indeed known for its simplicity and flexibility, but it's not typically considered a beginner-friendly operating system. However, ShastraOS has been designed specifically to be more accessible to new Linux users. By providing a pre-configured system with all the necessary web3 software and tools, as well as a user-friendly interface, we've made it easier for beginners to start exploring and use web3 technologies. Additionally, we provide documentation and support resources to help guide new users through the process of installing and configuring ShastraOS. We also provide you with an assistant built on GTK-3 which gives you all the basic functionalities at one click.
 
 Now you can proudly say -
 
