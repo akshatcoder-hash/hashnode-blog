@@ -1,4 +1,4 @@
-## Finding Beginner Friendly Open Source Projects
+# Finding Beginner Friendly Open Source Projects
 
 There's no need to overthink how you're going to contribute works on all levels. Instead, consider some of the projects you already use and how you may improve or change them.
 
@@ -8,7 +8,7 @@ If you are a first-time contributor – which everybody is at some point – her
 
 [First Timers Only](https://www.firsttimersonly.com/)
 
-[First Contributions](https://github.com/firstcontributions/first-contributions) 
+[First Contributions](https://firstcontributions.github.io/)
 
 [Contributor Ninja](https://contributor.ninja/)
 
@@ -22,6 +22,6 @@ If you are a first-time contributor – which everybody is at some point – her
 
 [Code Triage](https://www.codetriage.com/)
 
-**Mozilla Specific :** [What Can I Do For Mozilla](whatcanidoformozilla.org/)
+**Mozilla Specific:** [What Can I Do For Mozilla](whatcanidoformozilla.org/)
 
 As I say, "You need not to be an expert to contribute to Open Source". You can get started with these projects and make your first Open Source contribution.
